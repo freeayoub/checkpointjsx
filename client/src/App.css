@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  background-color: antiquewhite;
+  
+  box-shadow: #61dafb;
+}
+.name{
+color:red;
+}
+h3{
+ 
+color: blue;
+background-color: aqua;
+
+}
+.adresse{
+  color: blueviolet;
+}
+img{
+  height: 200px ;
+  border-radius: 50px 0 50px 0;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.App{
+  border: 1px solid black;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  margin-left: 15rem;
+  align-items: center;
+}
+
+
+
